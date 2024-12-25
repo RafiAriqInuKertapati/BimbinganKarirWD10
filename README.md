@@ -2,3 +2,9 @@
 
 username: admin
 password: admin
+
+dokter: Adi
+username: Semarang
+
+pasien: Ifan
+password: Semarang
